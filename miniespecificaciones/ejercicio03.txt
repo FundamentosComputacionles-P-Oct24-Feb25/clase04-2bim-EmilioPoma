@@ -19,4 +19,4 @@
 
 // 30
 // 110
-//
+// En este código existen dos procedimientos formales ya que obtenerSuma() no retorna ningún valor, característica que diferencia a una función de un procedimiento.
